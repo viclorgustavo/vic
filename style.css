@@ -1,6 +1,7 @@
 .cabeçalho {
-      padding: "24px";
-body 
+      padding: 24px 0;
+    cabeçalho-imagem{
+    width:20px;    
 background-color: #383d58;
 color:whiter;
 display:flex;
@@ -11,6 +12,8 @@ margin:016px;
 }
 }
 .escola-imagem{
-      widt:25%;
+      width:25%;
   backgraound-image:linear-gradient(#383d58);
+color:white;
+
 }
